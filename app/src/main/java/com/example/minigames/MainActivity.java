@@ -1,5 +1,7 @@
 package com.example.minigames;
 
+import static android.os.Build.VERSION_CODES.R;
+
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
